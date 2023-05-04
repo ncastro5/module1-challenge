@@ -12,7 +12,8 @@ This project consisted of refactoring and using semantic code with proper commen
 
 ## Website Preview
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+
+![alt text](assets/images/Horiseon-Website.png)
 
 ## Credits
 
