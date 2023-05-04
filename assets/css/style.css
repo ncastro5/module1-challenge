@@ -86,11 +86,12 @@ p {
     background-color: #2589bd;
 }
 
-.benefit-lead {
+.benefit {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
+/* Condensed repetitive code and changed class name
 .benefit-brand {
     margin-bottom: 32px;
     color: #ffffff;
@@ -100,11 +101,14 @@ p {
     margin-bottom: 32px;
     color: #ffffff;
 }
+*/
 
-.benefit-lead h3 {
+.benefit h3 {
     margin-bottom: 10px;
     text-align: center;
 }
+
+/* Condensed repetitive code and 
 
 .benefit-brand h3 {
     margin-bottom: 10px;
@@ -116,12 +120,15 @@ p {
     text-align: center;
 }
 
-.benefit-lead img {
+*/
+
+.benefit img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
+/*
 .benefit-brand img {
     display: block;
     margin: 10px auto;
@@ -133,8 +140,9 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+*/
 
-.search-engine-optimization {
+.SOS-Elements {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -143,6 +151,7 @@ p {
     color: #ffffff;
 }
 
+/*
 .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
@@ -160,11 +169,13 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
+*/
 
-.search-engine-optimization img {
+.SOS-Elements img {
     max-height: 200px;
 }
 
+/*
 .online-reputation-management img {
     max-height: 200px;
 }
@@ -172,12 +183,14 @@ p {
 .social-media-marketing img {
     max-height: 200px;
 }
+*/
 
-.search-engine-optimization h2 {
+.SOS-Elements h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
+/*
 .online-reputation-management h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -187,6 +200,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+*/
 
 .footer {
     padding: 30px;
