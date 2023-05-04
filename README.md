@@ -14,28 +14,26 @@ This project consisted of refactoring and using semantic code with proper commen
 
 What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
 
-## Usage
-
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
-
-![alt text](assets/images/screenshot.png)
-
 ## Credits
-NOTE: Click on thumbnail to view referenced site
+
 ### CSS Information
 ![alt text](assets/images/Cascading-Style-Sheets.png)
+
 ### CSSBox Information
 ![alt text](assets/images/CSS-Box-Model.png)
+
 ### Git Cheat Sheet
 ![alt text](assets/images/Github-CheatSheet.png)
+
 ### Git Flow Process
 ![alt text](assets/images/Github-GitFlow.png)
+
 ### HTML References
 ![alt text](assets/images/HTML-Reference.png)
+
 ### Markdown Language
 ![alt text](assets/images/Markdown-Cheat-Sheet.png)
+
 ## Special Thanks
 
 I want to give a special thanks to my instructors and teacher assistants for all their help. I also want to give thanks to the students who have created study groups to help one another out. 
