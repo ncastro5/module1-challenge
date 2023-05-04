@@ -37,6 +37,10 @@ If you used any third-party assets that require attribution, list the creators w
 
 If you followed tutorials, include links to those here as well.
 
+## Special Thanks
+
+I want to give a special thanks to my instructors and teacher assistants for all their help. I also want to give thanks to the students who have created study groups to help one another out. 
+
 ## License
 
 MIT License
