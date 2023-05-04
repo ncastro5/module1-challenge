@@ -27,7 +27,7 @@ This project consisted of refactoring and using semantic code with proper commen
 ![alt text](assets/images/Github-CheatSheet.png)
 
 ### Git Flow Process
-![alt text](assets/images/Github-GitFlow.png)
+![alt text](assets/images/GitHub-GitFlow.png)
 
 ### HTML References
 ![alt text](assets/images/HTML-Reference.png)
