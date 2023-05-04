@@ -108,7 +108,7 @@ p {
     text-align: center;
 }
 
-/* Condensed repetitive code and 
+/* Condensed repetitive code and kept class name the same as line 89
 
 .benefit-brand h3 {
     margin-bottom: 10px;
@@ -128,7 +128,8 @@ p {
     max-width: 150px;
 }
 
-/*
+/* Condensed repetitive code and changed name of class
+
 .benefit-brand img {
     display: block;
     margin: 10px auto;
@@ -142,7 +143,7 @@ p {
 }
 */
 
-.SOS-Elements {
+.Hori-Elements {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -151,7 +152,8 @@ p {
     color: #ffffff;
 }
 
-/*
+/* Condensed repetitive code
+
 .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
@@ -171,7 +173,7 @@ p {
 }
 */
 
-.SOS-Elements img {
+.Hori-Elements img {
     max-height: 200px;
 }
 
@@ -185,7 +187,7 @@ p {
 }
 */
 
-.SOS-Elements h2 {
+.Hori-Elements h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
