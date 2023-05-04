@@ -7,12 +7,6 @@ This project consisted of refactoring and using semantic code with proper commen
 ## Table of Contents
 - [Website Preview](#website-preview)
 - [Credits](#credits)
-    - [CSS Information](#css-information)
-    - [CSSBox Information](#cssbox-information)
-    - [Git Cheat Sheet](#git-cheat-sheet)
-    - [Git Flow Process](#git-flow-process)
-    - [HTML References](html-references)
-    - [Markdown Language](#markdown-language-cheat-sheet)
 - [Special Thanks](#special-thanks)
 - [License](#license)
 
@@ -30,13 +24,18 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 
 ## Credits
 NOTE: Click on thumbnail to view referenced site
-
-List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
-
+### CSS Information
+![alt text](assets/images/Cascading-Style-Sheets.png)
+### CSSBox Information
+![alt text](assets/images/CSS-Box-Model.png)
+### Git Cheat Sheet
+![alt text](assets/images/Github-CheatSheet.png)
+### Git Flow Process
+![alt text](assets/images/Github-GitFlow.png)
+### HTML References
+![alt text](assets/images/HTML-Reference.png)
+### Markdown Language
+![alt text](assets/images/Markdown-Cheat-Sheet.png)
 ## Special Thanks
 
 I want to give a special thanks to my instructors and teacher assistants for all their help. I also want to give thanks to the students who have created study groups to help one another out. 
